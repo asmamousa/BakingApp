@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffab91</color>
+    <color name="colorPrimaryDark">#ffab91</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="stepColor">#ffd0b0</color>
+    <color name="ingredientBack">#f06292</color>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:scaleType="centerInside"
+    android:orientation="horizontal"
+    android:id="@+id/tablet">
+
+    <fragment
+        android:layout_width="300dp"
+        android:layout_height="match_parent"
+        android:id="@+id/steps_fragment_container"
+        android:name="examples.android.example.com.bakingapp.fragments.stepShortDescriptionFragment"
+        />
+
+    <View
+        android:layout_width="1dp"
+        android:layout_height="match_parent"
+        android:background="@color/cardview_dark_background"/>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/steps_fragment_with_media_container"
+        android:scaleType="centerInside"
+        tools:context="examples.android.example.com.bakingapp.fragments.stepDetailsFragment"/>
+
+
+</LinearLayout>
+

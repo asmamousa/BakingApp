@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="Recycler_Layout_Margin">10dp</dimen>
+    <dimen name="details_Text_Size_19">19sp</dimen>
+    <dimen name="details_Title_Padding_6">6dp</dimen>
+    <dimen name="step">8dp</dimen>
+    <dimen name="stepTextSize">25dp</dimen>
+</resources>

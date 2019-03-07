@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BakingApp</string>
+    <string name="RecipeCard">Recipe Card</string>
+    <string name="NoRecipes">There is no available recipes at the moment, press OK to Exit</string>
+    <string name="ok">@android:string/ok</string>
+    <string name="pre">Previous step</string>
+    <string name="next">Next step</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+
+</resources>
